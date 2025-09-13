@@ -31,4 +31,4 @@ Mendapatkan link dari episode tertentu.
 Cara pakai:
 - Ganti nilai `bookId` pada variabel `data` dengan ID drama yang diinginkan.
 - Ganti nilai `index` pada variabel `data` dengan nomor episode yang diinginkan (dimulai dari 1).
-Jumlah episode dapat dilihat pada hasil pencarian di `search.js` atau `latest.js` pada properti `chapterCount`.
+Jumlah episode dapat dilihat pada hasil `latest.js` pada properti `chapterCount`.
