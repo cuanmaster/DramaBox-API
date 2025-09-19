@@ -32,3 +32,12 @@ Cara pakai:
 - Ganti nilai `bookId` pada variabel `data` dengan ID drama yang diinginkan.
 - Ganti nilai `index` pada variabel `data` dengan nomor episode yang diinginkan (dimulai dari 1).
 Jumlah episode dapat dilihat pada hasil `latest.js` pada properti `chapterCount`.
+
+## INFO
+
+```json
+{
+"token":"requests are limited by vercel",
+"info":"Bagi yang mau beli source code auto generate tokennya bisa chat ke wa: https://wa.me/6285157729639"
+}
+```
