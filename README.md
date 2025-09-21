@@ -3,7 +3,7 @@
 Repository ini hanya berisi contoh penggunaan API Dramabox.
 Silakan jalankan di server anda atau kreasikan sendiri berdasarkan contoh yang ada.
 
-### Example API
+### Free API
 
 https://api-dramabox.vercel.app/
 
