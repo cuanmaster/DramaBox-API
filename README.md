@@ -41,7 +41,7 @@ Jumlah episode dapat dilihat pada hasil `latest.js` pada properti `chapterCount`
 
 ```json
 {
-"token":"requests are limited by vercel",
-"info":"Bagi yang mau beli source code auto generate tokennya bisa chat ke wa: https://wa.me/6285157729639"
+  "token": "requests are limited by vercel - Silakan gunakan API DramaBox yang tersedia Di https://api-dramabox.vercel.app",
+  "info": "Silakan gunakan API DramaBox yang tersedia di https://api-dramabox.vercel.app"
 }
 ```
