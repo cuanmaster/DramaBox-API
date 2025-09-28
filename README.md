@@ -3,6 +3,10 @@
 Repository ini hanya berisi contoh penggunaan API Dramabox.
 Silakan jalankan di server anda atau kreasikan sendiri berdasarkan contoh yang ada.
 
+### Free API
+
+https://api-dramabox.vercel.app/
+
 ## Instalasi
 
 ```sh
@@ -32,3 +36,12 @@ Cara pakai:
 - Ganti nilai `bookId` pada variabel `data` dengan ID drama yang diinginkan.
 - Ganti nilai `index` pada variabel `data` dengan nomor episode yang diinginkan (dimulai dari 1).
 Jumlah episode dapat dilihat pada hasil `latest.js` pada properti `chapterCount`.
+
+## INFO
+
+```json
+{
+  "token": "requests are limited by vercel - Silakan gunakan API DramaBox yang tersedia Di https://api-dramabox.vercel.app",
+  "info": "Silakan gunakan API DramaBox yang tersedia di https://api-dramabox.vercel.app"
+}
+```
